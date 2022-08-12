@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-# Dedemahendra
+# Dede Mahendra
 
 ### 📚 I'm College Student at STMIK Primakara
+### 🖥️ I'm interested in Web Development
 
-### 🖥️ I'm interested in web development
+**You can find me at**
+- [Instagram]()
+- [Twitter]()
+- [Linkedin]()
+- [Showwcase]()
